@@ -9,3 +9,5 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## About Me
 I have perfect vision.
+
+## What classes are you taking this quarter?
